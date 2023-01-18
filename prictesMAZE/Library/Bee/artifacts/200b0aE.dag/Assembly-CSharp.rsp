@@ -352,7 +352,6 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/IfStatementsDemo.cs"
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs"
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs"
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs"
@@ -391,6 +390,8 @@
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs"
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs"
 "Assets/PlayerMove/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs"
+"Assets/PlayerMove/Script/CollidingWithStuff.cs"
+"Assets/PlayerMove/Script/IfStatementsDemo.cs"
 "Assets/PlayerMove/Script/PlayerMove.cs"
 -langversion:9.0
 
